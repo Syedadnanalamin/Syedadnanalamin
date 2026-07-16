@@ -65,16 +65,20 @@ Full-Stack MERN Developer with a strong focus on Next.js, React, Express.js, and
   <tr>
    <!-- COLUMN 1: HireLoop --> <td width="50%" valign="top"> <h3>💼 HireLoop</h3> <p><em>A modern full-stack job portal that connects job seekers with recruiters through a secure, scalable, and user-friendly hiring platform.</em></p> <p><strong>Stack:</strong> Next.js • React • Node.js • Express.js • MongoDB • TypeScript</p> <ul> <li>Developed a role-based recruitment platform supporting Job Seekers, Recruiters, and Admins.</li> <li>Implemented secure authentication and session management using Better Auth with protected application routes.</li> <li>Built responsive dashboards for managing job postings, applications, and company profiles.</li> <li>Designed and integrated RESTful APIs with MongoDB Atlas for efficient data management.</li> <li>Integrated Stripe Checkout to provide secure subscription and payment workflows.</li> <li>Crafted a modern, responsive user interface using Tailwind CSS and DaisyUI for an enhanced user experience.</li> </ul> </td>
     <!-- COLUMN 2: Wanderlust -->
-    <td width="50%" valign="top">
-      <h3>🌍 Wanderlust</h3>
-      <p><em>High-performance travel booking infrastructure enabling global itinerary handling, secure reservation checkouts, and metrics monitoring.</em></p>
-      <p><strong>Stack:</strong> Next.js • Tailwind CSS • HeroUI • Better Auth • MongoDB Atlas</p>
-      <ul>
-        <li>Designed an intuitive, high-fidelity customer travel dashboard mapping complex historical arrays.</li>
-        <li>Formulated role-based protected routing policies preventing unauthenticated payload delivery.</li>
-        <li>Optimized component responsiveness metrics utilizing HeroUI primitives and Framer Motion layout transformations.</li>
-      </ul>
-    </td>
+    <!-- COLUMN 2: MediQueue -->
+<td width="50%" valign="top">
+  <h3>🏥 MediQueue</h3>
+  <p><em>A full-stack tutor booking platform that connects learners with experienced tutors through a seamless scheduling and management system.</em></p>
+  <p><strong>Stack:</strong> Next.js • React • Node.js • Express.js • MongoDB • Tailwind CSS</p>
+  <ul>
+    <li>Developed a full-stack tutoring platform enabling students to discover, book, and manage tutoring sessions.</li>
+    <li>Implemented secure authentication and protected routes using Better Auth for a personalized user experience.</li>
+    <li>Built interactive dashboards allowing tutors to create, update, and manage tutorial listings with ease.</li>
+    <li>Designed and integrated RESTful APIs with MongoDB Atlas for efficient booking, tutorial, and user management.</li>
+    <li>Created a responsive and intuitive interface using Tailwind CSS, ensuring a seamless experience across devices.</li>
+    <li>Implemented search, filtering, and session management features to simplify tutor discovery and booking workflows.</li>
+  </ul>
+</td>
   </tr>
 </table>
 
