@@ -100,4 +100,5 @@ Full-Stack MERN Developer with a strong focus on Next.js, React, Express.js, and
 ### 🌐 Let's Connect
 * **LinkedIn:** [https://www.linkedin.com/in/syed-adnan-alamin/](https://www.linkedin.com/in/syed-adnan-alamin/)
 * **Email:** [syedadnanhuda64@gmail.com](mailto:syedadnanhuda64@gmail.com)
+* **Contact Number:** [+8801605394419](tel:+8801605394419)
 <!-- * **Portfolio:** [syedadnan.dev](https://syedadnan.dev) -->
